@@ -13,6 +13,8 @@ export default [
         test: true,
         it: true,
         expect: true,
+        process: true,
+        require: true
       },
     },
   },
